@@ -1,0 +1,27 @@
+.plant-care-guide {
+    width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  .plant-care-guide h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #4CAF50;
+  }
+  
+  .plant-care-guide h3 {
+    margin-top: 1.5rem;
+    color: #333;
+  }
+  
+  .plant-care-guide p {
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    color: #666;
+  }
+  
