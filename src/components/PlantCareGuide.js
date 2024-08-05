@@ -13,8 +13,7 @@ function PlantCareGuide() {
   const [careData, setCareData] = useState(plantCareData);
 
   useEffect(() => {
-    // Example: fetch data from an API and update state
-    // setCareData(fetchedData);
+    
   }, []);
 
   return (

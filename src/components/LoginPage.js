@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import './LoginPage.css';
 
 function LoginPage() {
-  const [email, setEmail] = useState('rahulkumar@gmail.com');
-  const [password, setPassword] = useState('');
+  const [email, setEmail] = useState('ArtistS@gmail.com');
+  const [password, setPassword] = useState('hello123');
 
   const handleLogin = (e) => {
     e.preventDefault();
